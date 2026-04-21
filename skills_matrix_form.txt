@@ -1,0 +1,75 @@
+========================================
+    SKILLS MATRIX UPDATE REQUEST
+========================================
+
+Hi Team,
+
+Please update your skills information below:
+
+---
+
+Name: Cs, Chidananda
+Role: □ SME    □ Team Member
+Level: □ L1    □ L2    □ L3
+Networker: □ Yes    □ No
+Avamar: □ Yes    □ No
+Data Domain: □ Yes    □ No
+DPA: □ Yes    □ No
+
+---
+
+Name: Devi, Brunda
+Role: □ SME    □ Team Member
+Level: □ L1    □ L2    □ L3
+Networker: □ Yes    □ No
+Avamar: □ Yes    □ No
+Data Domain: □ Yes    □ No
+DPA: □ Yes    □ No
+
+---
+
+Name: KodurSrinivas, Archana
+Role: □ SME    □ Team Member
+Level: □ L1    □ L2    □ L3
+Networker: □ Yes    □ No
+Avamar: □ Yes    □ No
+Data Domain: □ Yes    □ No
+DPA: □ Yes    □ No
+
+---
+
+Name: Shinde, Nilesh
+Role: □ SME    □ Team Member
+Level: □ L1    □ L2    □ L3
+Networker: □ Yes    □ No
+Avamar: □ Yes    □ No
+Data Domain: □ Yes    □ No
+DPA: □ Yes    □ No
+
+---
+
+Name: Srinivasan, Divya
+Role: □ SME    □ Team Member
+Level: □ L1    □ L2    □ L3
+Networker: □ Yes    □ No
+Avamar: □ Yes    □ No
+Data Domain: □ Yes    □ No
+DPA: □ Yes    □ No
+
+---
+
+Name: YachenahalliShivkumar, Bhaskar
+Role: □ SME    □ Team Member
+Level: □ L1    □ L2    □ L3
+Networker: □ Yes    □ No
+Avamar: □ Yes    □ No
+Data Domain: □ Yes    □ No
+DPA: □ Yes    □ No
+
+---
+
+**Instructions:**
+1. Fill in your details
+2. Return completed form to Sruthi Raveendran
+
+**Note:** Dinabandhu Bera's info is already updated (L3, all skills: Yes)
