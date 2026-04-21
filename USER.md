@@ -74,4 +74,19 @@ _Learn about the person you're helping. Update this as you go._
 
 ---
 
+## Properties
+
+### Bhoomi Parth — Ghansoli Sector 7 (Navi Mumbai)
+| Field | Value |
+|-------|-------|
+| **Type** | Investment rental property |
+| **Monthly Rent** | ₹45,000 |
+| **Maintenance** | ~₹5,500 (~12% of rent) |
+| **Net Income** | ~₹39,500/month |
+| **Payment Due** | 28th of every month |
+
+**Note:** Solid rental yield. Maintenance is reasonable for the area.
+
+---
+
 The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
